@@ -4,17 +4,17 @@
 
 </br>
 
-- [ ] Follow the installation instructions for the Certora Prover described in the following link: [Installation of Certora Prover](https://docs.certora.com/en/latest/docs/user-guide/getting-started/install.html#).
+- [X] Follow the installation instructions for the Certora Prover described in the following link: [Installation of Certora Prover](https://docs.certora.com/en/latest/docs/user-guide/getting-started/install.html#).
 
 > :warning: Make sure to download solidity compiler versions 0.8.7, 0.8.0, 0.7.6, 0.7.5 and 0.7.0 for the first 2 lessons of the course. You will need additional solc versions in the future; so whenever a solc error will rise, make sure to have the compiler version that you need on your local machine, located in a directory added to PATH.
 
 </br>
 
-- [ ] Install VSCode if you don't already have it (can be found in their [official website](https://code.visualstudio.com/)).
+- [X] Install VSCode if you don't already have it (can be found in their [official website](https://code.visualstudio.com/)).
 
 </br>
 
-- [ ] In the VSCode extensions/marketplace search for [Certora Verification Language LSP](https://marketplace.visualstudio.com/items?itemName=Certora.evmspec-lsp) and install it. This is an extension developed for supporting the spec language - the language in which we will be writing specifications. The extension supports syntax highlighting, autocompletion and more.
+- [X] In the VSCode extensions/marketplace search for [Certora Verification Language LSP](https://marketplace.visualstudio.com/items?itemName=Certora.evmspec-lsp) and install it. This is an extension developed for supporting the spec language - the language in which we will be writing specifications. The extension supports syntax highlighting, autocompletion and more.
 
 - [ ] It is also recommended to install the [Ethereum Security Bundle](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) by tintinweb on the VSCode extensions/marketplace, to get support for the Solidity contracts.
 
@@ -26,17 +26,17 @@
 
 </br>
 
-- [ ] Fork the [Tutorials](https://github.com/Certora/Tutorials) repository to your github account. </br>
+- [X] Fork the [Tutorials](https://github.com/Certora/Tutorials) repository to your github account. </br>
 You can use the following link as a guide: [Forking Repository On Github](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository). </br>
 Clone your repository to your local machine so you'll have everything you need on your pc.
 
 </br>
 
-- [ ] Make sure to sync the forked repository daily in case any changes and fixes were made to the original repository. Use this link as a guide: [Syncing A Forked Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#configuring-git-to-sync-your-fork-with-the-original-repository).
+- [X] Make sure to sync the forked repository daily in case any changes and fixes were made to the original repository. Use this link as a guide: [Syncing A Forked Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#configuring-git-to-sync-your-fork-with-the-original-repository).
 
 </br>
 
-- [ ] Register to our [Discourse Forum](https://forum.certora.com/) and consider and introduce yourself in the [Introduction Thread](https://forum.certora.com/t/introduce-yourself/27/2).
+- [X] Register to our [Discourse Forum](https://forum.certora.com/) and consider and introduce yourself in the [Introduction Thread](https://forum.certora.com/t/introduce-yourself/27/2).
 
 </br>
 
